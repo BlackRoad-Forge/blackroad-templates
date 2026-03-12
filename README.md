@@ -1,5 +1,11 @@
 # BlackRoad Design System Templates
 
+[![HTML](https://img.shields.io/badge/HTML-15%2B_templates-E34F26.svg)](https://blackroad.io)
+[![CSS](https://img.shields.io/badge/CSS-gradient--first-1572B6.svg)](https://blackroad.io)
+[![Dark Mode](https://img.shields.io/badge/dark-mode-000000.svg)](https://blackroad.io)
+
+
+
 A collection of HTML templates built with the BlackRoad Design System.
 
 ## Templates
